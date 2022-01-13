@@ -10,7 +10,7 @@
 3) Boom ! You are done 
 4) Contribute as much as possible to make this web-app more user interactive and increase the user experience from your end and become the part of this get startup.
 
-# Visit us on :- 
+# Visit us on :- 👉👉 https://naeeshop.netlify.app/ 👈👈
 
 # Contributors:
 1) Rihan Bagwan  -> follow him on https://github.com/the-iconic-rihan github.
@@ -26,5 +26,3 @@
 ![image](https://user-images.githubusercontent.com/68491627/149281601-1e53986d-bceb-470f-8ad9-c606daec025c.png)
 ![image](https://user-images.githubusercontent.com/68491627/149281658-90d8cec8-e0bc-4db5-9111-3954a6584c70.png)
 ![image](https://user-images.githubusercontent.com/68491627/149281692-d2ddfea9-ee32-4053-af20-2887aa4813a7.png)
-
-
